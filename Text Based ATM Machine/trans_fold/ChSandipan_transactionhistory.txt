@@ -1,0 +1,16 @@
+2023-09-23 22:45:17.566804
+Previous balance: 0. Deposit amount is:1000000.0. New balance:1000000.0
+2023-09-23 22:48:36.346805
+Previous balance: 1000000.0. Deposit amount is:10000.0. New balance:1010000.0
+2023-09-23 22:50:22.297367
+Previous balance: 1010000.0. Deposit amount is:10000.0. New balance:1020000.0
+2023-09-23 22:53:50.987847
+Previous balance: 1020000.0. Deposit amount is:1000.0. New balance:1021000.0
+2023-09-23 22:59:04.321518
+Previous balance: 1021000.0. Deposit amount is:1000.0. New balance:1022000.0
+2023-09-23 23:06:28.935773
+Previous balance: 1022000.0. Deposit amount is:1000.0. New balance:1023000.0
+2023-09-23 23:07:05.289443
+Previous balance: 1023000.0. Withdrawn amount is:2000.0. New balance:1021000.0
+2023-09-23 23:10:50.683638
+Previous balance: 1021000.0. Deposit amount is:1000.0. New balance:1022000.0
