@@ -1,7 +1,7 @@
 import random
 print("Lets play a number guessing game!")
 high=int(input("Enter the upperbound number(greater than 0): "))
-number=random.randint(0,high+1)
+number=random.randint(-1,high+1)
 tries=1
 while True:
     guess = int(input(f"Enter the number that you have guessed which lies b/w 0 and {high}: "))
